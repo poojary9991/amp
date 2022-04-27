@@ -25,10 +25,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/poojary9991/amp.git"
+    "url": "git+https://github.com/poojary9991/amplify.git"
   },
   "bugs": {
-    "url": "https://github.com/poojary9991/amp/issues"
+    "url": "https://github.com/poojary9991/amplify/issues"
   },
-  "homepage": "https://github.com/poojary9991/amp#readme"
+  "homepage": "https://github.com/poojary9991/amplify#readme",
+  "devDependencies": {}
 }
